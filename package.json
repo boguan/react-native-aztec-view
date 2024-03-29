@@ -1,6 +1,6 @@
 {
 	"name": "react-native-aztec-view",
-	"version": "1.116.2",
+	"version": "1.116.3",
 	"description": "Aztec view for react-native.",
 	"author": "The WordPress Contributors",
 	"main": "index.js",
@@ -21,7 +21,8 @@
 	},
 	"dependencies": {
 		"@wordpress/element": "5.31.0",
-		"@wordpress/keycodes": "3.54.0"
+		"@wordpress/keycodes": "3.54.0",
+		"@wordpress/compose": "6.31.0"
 	},
 	"peerDependencies": {
 		"react": "*",
