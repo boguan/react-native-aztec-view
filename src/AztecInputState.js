@@ -8,7 +8,7 @@ import TextInputState from 'react-native/Libraries/Components/TextInput/TextInpu
  * WordPress dependencies
  */
 import { debounce } from '@wordpress/compose';
-import { hideAndroidSoftKeyboard } from '@wordpress/react-native-bridge';
+import { hideAndroidSoftKeyboard } from 'react-native-wordpress-bridge';
 
 /** @typedef {import('@wordpress/element').RefObject} RefObject */
 
