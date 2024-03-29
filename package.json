@@ -21,7 +21,8 @@
 	},
 	"dependencies": {
 		"@wordpress/element": "5.31.0",
-		"@wordpress/keycodes": "3.54.0"
+		"@wordpress/keycodes": "3.54.0",
+		"@wordpress/compose": "6.31.0"
 	},
 	"peerDependencies": {
 		"react": "*",
