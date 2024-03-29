@@ -1,6 +1,6 @@
 {
 	"name": "react-native-aztec-view",
-	"version": "1.116.1",
+	"version": "1.116.2",
 	"description": "Aztec view for react-native.",
 	"author": "The WordPress Contributors",
 	"main": "index.js",
@@ -10,14 +10,14 @@
 		"wordpress",
 		"react-native"
 	],
-	"homepage": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/react-native-aztec/README.md",
+	"homepage": "https://github.com/boguan/react-native-aztec-view/README.md",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/WordPress/gutenberg.git",
+		"url": "https://github.com/boguan/react-native-aztec-view.git",
 		"directory": "packages/react-native-aztec"
 	},
 	"bugs": {
-		"url": "https://github.com/WordPress/gutenberg/issues"
+		"url": "https://github.com/boguan/react-native-aztec-view/issues"
 	},
 	"dependencies": {
 		"@wordpress/element": "5.31.0",
